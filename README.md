@@ -6,7 +6,7 @@
 控制场标志点的像点坐标量测，通过交互式框选大致区域，再利用*大津法*自适应二值化、*形态学*约束得到兴趣区域，最终采用重心法确定标志点圆心。
 
 程序示例图如下：
-<div align=center><img width="500" height="360" src="https://github.com/Charrrrrlie/Measurement/tree/main/res_demo/demo1.png"/></div>
+<div align=center><img width="500" height="360" src="https://github.com/Charrrrrlie/Measurement/raw/master/res_demo/demo1.png"/></div>
 
 ### Requirements
 - Python3
